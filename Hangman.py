@@ -31,5 +31,5 @@ while True:
         print('Parabén você descobriu a palavra secreta! A palavra era: desafio')
         break
 print('Fim do Jogo da Forca!')
-input('')
+input(' ')
 
